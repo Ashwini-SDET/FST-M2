@@ -30,7 +30,7 @@
           <collectionProp name="HeaderManager.headers">
             <elementProp name="" elementType="Header">
               <stringProp name="Header.name">Authorization</stringProp>
-              <stringProp name="Header.value">token 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</stringProp>
+              <stringProp name="Header.value">token </stringProp>
             </elementProp>
           </collectionProp>
         </HeaderManager>
@@ -53,7 +53,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="sshKey" elementType="Argument">
               <stringProp name="Argument.name">sshKey</stringProp>
-              <stringProp name="Argument.value">ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxor4uHbVGEj8MloRIodhn7CloEINeMMba6pGIqkNnfCW6H1TmprVa3w4aCH1VcVilddgXulxxLjWfjnqfkzlaYgQb2pa9WOv1TAzNoBSLiiv0kO5srOr7GPZSSMHdiici9PBusJNgPzwpoFongV22pxAmRu6uRhxZgXj75E0HZfDifYCvZzq5zv/UHO6Y/jFqAgNTZG6fdukKggIAS/OZ6CLqxHCHUlSI/rj+rSaHTpxuJINKl+yRRImDXIXTw2e7ejaDVhyi3LVKlwiP4PLFm/9Z/74KhanzCdCBGPYJj2EVZd0uHa4eVJ9wC35u+JrUfhA0YlxpzBjhrrdDGipb</stringProp>
+              <stringProp name="Argument.value">ssh-rsa </stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
           </collectionProp>
