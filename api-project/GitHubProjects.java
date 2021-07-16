@@ -28,7 +28,7 @@ public class GitHubProjects {
 				.setBaseUri("https://api.github.com")
 				// Build request specification
 				.build();
-		sshKey = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCdS7VfH7ZehWbLl0AAFss8JE+deYid8KtF/0rUKn3aqLac0+m3T2ABq8YrHBS0FHopxBgBfE9pBuaMkIiDVAs+InX1MwuDeiLd2JlSF4aPXijjaoLtEL7tGF8EeAZ0tU+kJi80vkYgFkj0WJ6+r9oYj6paisNoHIF9WLycCm6dK763Cc+MOutqAuxsNE1sAl8V017GVSUcGz4tAeE2L8R8IKEIAoNSM/SUs5Ukjt5AIZDE0iiAqLbRfb3h2H8MV+yopdAcX4xNnI2avSotVBTTdFvVu+3hZYO7cmPwVfKkBHMfyhVWYCdSI7NDw3AmSzIirpk0PC6VJRTppIKC";
+		sshKey = "ssh-rsa ";
 	}
 	@Test(priority = 1)
 	// Test case using a DataProvider
